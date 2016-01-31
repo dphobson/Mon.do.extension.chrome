@@ -2,6 +2,8 @@
 A browser extension for your Mondo account to get display your current balance and days spending
 <br />
 
+![example](example.jpg) <br />
+
 <b>To use:</b><br />
 Replace the contents of the config/prod.js with your own details<br />
 Open Chrome->Settings->More Tools->Extentions<br />
